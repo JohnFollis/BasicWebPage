@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/JohnFollis/BasicWebPage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>John Follis's CIS105 Portfolio</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body bgcolor="Bisque">
+<h1 style="border:3px solid Black;">My Portfolio</h1>
 
-### Markdown
+<img src="photo.jpg" alt="This is a picture of two white dogs running on cut grass one with a red harness." style="width:85%;height85%;">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p> Picture I took of my two dogs. Meishka (bear cub in Russian) is the one on the left, she's 4 years old loving and smart and her mom on the right is not but she's the best snuggler at 6 years old!.  Her name is princess!  </p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3>Favorite Sites</h3>
+<ul>
+<li><a href="http://www.youtube.com">YouTube</a>
+<li><a href="http://www.Wikipedia.org">Wikipedia</a>
+<li><a href="http://www.Stackoverflow.com">Stackoverflow</a>
+<li><a href="http://www.Github.com">Github.com</a>
+</ul>
 
-- Bulleted
-- List
+<p> Reflecting back on this class and it's real life implications where actually amazing.  In my current job I REALLY needed a refresher on Excel.  The first part of the month involved several spreadsheets that covered all 2241 phones in the building.  Mine looked better and had more functionality than my co workers and we eventually adopted it.  Eventhough I use Word everyday, I, like most here at work don't take the time that a class sets aside to allow you to learn how to use it's many advanced features. I'm grateful for this class.</p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<h3>Examples of links to my CIS 105 files!!!</h3>
+<ul>
+<li><a href="Follis_John_Word01_Interns.docx">MS Word File</a>
+<li><a href="Follis_John_Excel04_Garden.xlsx"> MS Excel File </a>
+<li><a href="exl02_powerpoints.pptx"> MS PowerPoint File </a>
+<li><a href="Follis_John_Access03_Water.accdb"> MS Access File </a>
+<li><a href="https://github.com/JohnFollis/BasicWebPage">I also learned how to use Github! This is a link to the repository I used on Github.</a>
+</ul>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JohnFollis/BasicWebPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p> This site is authored and maintained by John Follis". It is not an official website of the Maricopa County Community College District, and Maricopa is not responsible for the content of this site. </p>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
